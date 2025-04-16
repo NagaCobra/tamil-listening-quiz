@@ -2,7 +2,7 @@ const questions = [
   { audio: "ng.mp3", correct: "ங்" },
   { audio: "nj.mp3", correct: "ஞ்" },
   { audio: "nn.mp3", correct: "ண்" },
-  { audio: "N.mp3", correct: "ந்" },
+  { audio: "nt.mp3", correct: "ந்" },
   { audio: "m.mp3", correct: "ம்" },
   { audio: "n.mp3", correct: "ன்" },
  
